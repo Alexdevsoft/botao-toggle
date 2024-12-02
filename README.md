@@ -8,9 +8,6 @@ Este projeto demonstra a implementação de um botão toggle simples para altern
 - **Design Moderno**: Botão visualmente atrativo com transições suaves e efeitos de sombra.
 - **Responsivo**: O layout e o botão se ajustam automaticamente ao tamanho da tela.
 
-## Prévia
-
-![Prévia do Botão Toggle](#)
 
 ## Tecnologias Utilizadas
 
@@ -34,6 +31,6 @@ Para visualizar ou modificar o projeto, você precisa de:
 1. **Clonar o Repositório**  
    Baixe ou clone este repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/botao-toggle.git
+   git clone https://github.com/Alexdevsoft/botao-toggle.git
 
 
