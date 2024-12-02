@@ -19,3 +19,21 @@ Este projeto demonstra a implementação de um botão toggle simples para altern
 
 ## Estrutura de Arquivos
 
+
+## Como Começar
+
+### Pré-requisitos
+
+Para visualizar ou modificar o projeto, você precisa de:
+
+- Um navegador moderno.
+- Um editor de texto (ex.: VS Code, Sublime Text).
+
+### Passos para Executar
+
+1. **Clonar o Repositório**  
+   Baixe ou clone este repositório para sua máquina local:
+   ```bash
+   git clone https://github.com/seu-usuario/botao-toggle.git
+
+
